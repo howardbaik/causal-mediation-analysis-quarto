@@ -986,6 +986,8 @@ bkmr_mod_hier[["Outcome model"]] <- fit_y_hier
 
 ## Individual exposure testing (without co-exposure)
 
+NOTE: rds file is not pushed to GitHub because size is too large.
+
 ```{r}
 # Read in the data 
 list_headZscore <- read_rds("RDS/list_headZscore.rds")
